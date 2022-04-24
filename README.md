@@ -22,13 +22,12 @@ A simple blog website built with React Js. You will be able to write and update 
 This project was designed to demonstrate:
 
 * How to create a simple blog website using entirely Javascript and JSON.
-  * ![idea_image](https://www.figma.com/file/BImiHlfOG9mzxb7ZnEYhJq/REACT-MERN)
-* React.js Front End
+  * ![idea_image](https://github.com/MBEDOBE/react_blog/blob/master/REACT%20MERN.png)
+* React.js Front End:
    React.js was used to build simple Components, and render them as HTML.
 
-* Express.js and Node.js Server
-   Using GET or POST methods from the front-end, to connect to Express.js functions. 
-   Those functions are used to access and update data in th MongoDB database via callbacks and promises.
+* Express.js and Node.js Server:
+   Get and POST methods were used to access and update data in th MongoDB database via callbacks and promises from the front end.
 
 ## Usage example
 
@@ -39,30 +38,29 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 ---
 
 ## Installation
-
-Describe how to get your project running.
-
-MacOS & Linux:
-
+To get up and running, run the following commands in your terminal
 ```sh
-npm install my-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
+npm start 
+or
+yarn start
 ```
 
 ---
 
 ## Development setup
 
-Describe how to install all development dependencies and consider do this for multiple platforms.  
-
+How to install all development dependencies.  
+## To start backend server, do the following
 ```sh
-make install
-npm test
+cd api
+npm install
+npm start
+```
+## Do the following to view the app in your browser
+```sh
+cd client
+npm install
+npm start
 ```
 
 ## Running the tests
@@ -73,18 +71,13 @@ Remember this is a showcase, thus your potential employer might want to see an a
 
 ## Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - To deploy on Heroku
+* [React](https://reactjs.org/) - Front End 
+* [Node](https://nodejs.org/en/) - Server
+* [Express](https://expressjs.com/) - Server
+* [Mongo](https://www.mongodb.com/) - Database
 
 ## Release History
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Refactoring - Remove `setAnyMethod()`
-    * ADD: Add `newSomething()`
-* 0.1.1
-    * FIX: Crash when calling `defaultXYZ()` (Thanks @ContributorName)
 * 0.1.0
     * The first proper release
 * 0.0.1
