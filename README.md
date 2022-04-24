@@ -6,7 +6,7 @@
 ![Backend](https://img.shields.io/badge/Database-MongoDb-green?style=for-the-badge&logo=mongodb)
 ![Backend](https://img.shields.io/badge/Server-Node-lightgrey?style=for-the-badge&logo=node.js)
 
-> Short blurb about your project idea.
+
 
 A simple blog website built with React Js. You will be able to write and update new blog post on the website.
 
@@ -14,7 +14,7 @@ A simple blog website built with React Js. You will be able to write and update 
 ## Author
 
 **D. Mbedobe KUNJI** 
-* *Initial work* - [React Blog](https://github.com/MBEDOBE/react_blog)
+* [React Blog](https://github.com/MBEDOBE/react_blog)
 
 
 ## Showcase
@@ -24,10 +24,10 @@ This project was designed to demonstrate:
 * How to create a simple blog website using entirely Javascript and JSON.
   * ![idea_image](https://github.com/MBEDOBE/react_blog/blob/master/REACT%20MERN.png)
 * React.js Front End:
-   React.js was used to build simple Components, and render them as HTML.
+   React.js: was used to build simple Components, and render them as HTML.
 
 * Express.js and Node.js Server:
-   Get and POST methods were used to access and update data in th MongoDB database via callbacks and promises from the front end.
+   how to use Get and POST methods  to access and update data in th MongoDB database via callbacks and promises from the front end.
 
 ## Usage example
 
