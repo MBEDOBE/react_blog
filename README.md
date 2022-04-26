@@ -1,4 +1,4 @@
-![header](https://github.com/MBEDOBE/mbedobe/blob/master/header.png)
+<!---![header](https://github.com/MBEDOBE/mbedobe/blob/master/header.png)--->
 
 # MERN BLOG WEBSITE
 ![Project Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge&logo)
