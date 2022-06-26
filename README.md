@@ -1,6 +1,6 @@
-[![header][header-url]][header-link]
+<!---![header](https://github.com/MBEDOBE/mbedobe/blob/master/header.png)--->
 
-# Project Name
+# MERN BLOG WEBSITE
 ![Project Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge&logo)
 ![Frontend](https://img.shields.io/badge/Frontend-ReactJs-blue?style=for-the-badge&logo=react)
 ![Backend](https://img.shields.io/badge/Database-MongoDb-green?style=for-the-badge&logo=mongodb)
@@ -22,7 +22,7 @@ A simple blog website built with React Js. You will be able to write and update 
 This project was designed to demonstrate:
 
 * How to create a simple blog website using entirely Javascript and JSON.
-  * ![idea_image](https://github.com/MBEDOBE/react_blog/blob/master/REACT%20MERN.png)
+  ![idea_image](https://github.com/MBEDOBE/react_blog/blob/master/REACT%20MERN.png)
 * React.js Front End:
    React.js: was used to build simple Components, and render them as HTML.
 
@@ -31,9 +31,6 @@ This project was designed to demonstrate:
 
 ## Usage example
 
-Bring the best usages of your project.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ---
 
@@ -63,6 +60,10 @@ npm install
 npm start
 ```
 
+<<<<<<< HEAD
+=======
+---
+>>>>>>> fa3166fdda45114cd15dc32718598c5d9c21770e
 
 ## Built With
 
